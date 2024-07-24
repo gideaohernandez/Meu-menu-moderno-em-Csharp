@@ -1,0 +1,27 @@
+c:\users\hernandez\documents\visual studio 2012\Projects\Modern_Menu\Modern_Menu\bin\Debug\Modern_Menu.exe.config
+C:\Users\HERNANDEZ\documents\visual studio 2012\Projects\Modern_Menu\Modern_Menu\bin\Debug\Modern_Menu.exe
+C:\Users\HERNANDEZ\documents\visual studio 2012\Projects\Modern_Menu\Modern_Menu\bin\Debug\Modern_Menu.pdb
+C:\Users\HERNANDEZ\documents\visual studio 2012\Projects\Modern_Menu\Modern_Menu\bin\Debug\Guna.UI.dll
+C:\Users\HERNANDEZ\documents\visual studio 2012\Projects\Modern_Menu\Modern_Menu\obj\Debug\Modern_Menu.csprojResolveAssemblyReference.cache
+C:\Users\HERNANDEZ\documents\visual studio 2012\Projects\Modern_Menu\Modern_Menu\obj\Debug\Modern_Menu.Menu_Modern.resources
+C:\Users\HERNANDEZ\documents\visual studio 2012\Projects\Modern_Menu\Modern_Menu\obj\Debug\Modern_Menu.Properties.Resources.resources
+C:\Users\HERNANDEZ\documents\visual studio 2012\Projects\Modern_Menu\Modern_Menu\obj\Debug\Modern_Menu.csproj.GenerateResource.Cache
+C:\Users\HERNANDEZ\documents\visual studio 2012\Projects\Modern_Menu\Modern_Menu\obj\Debug\Modern_Menu.exe
+C:\Users\HERNANDEZ\documents\visual studio 2012\Projects\Modern_Menu\Modern_Menu\obj\Debug\Modern_Menu.pdb
+E:\Cursos 🔨\Backups Projects\Modern_Menu\Modern_Menu\bin\Debug\Modern_Menu.exe.config
+E:\Cursos 🔨\Backups Projects\Modern_Menu\Modern_Menu\obj\Debug\Modern_Menu.exe
+E:\Cursos 🔨\Backups Projects\Modern_Menu\Modern_Menu\obj\Debug\Modern_Menu.pdb
+E:\Cursos 🔨\Backups Projects\Modern_Menu\Modern_Menu\obj\Debug\Modern_Menu.csprojResolveAssemblyReference.cache
+E:\Cursos 🔨\Backups Projects\Modern_Menu\Modern_Menu\obj\Debug\Modern_Menu.Menu_Modern.resources
+E:\Cursos 🔨\Backups Projects\Modern_Menu\Modern_Menu\obj\Debug\Modern_Menu.Properties.Resources.resources
+E:\Cursos 🔨\Backups Projects\Modern_Menu\Modern_Menu\obj\Debug\Modern_Menu.csproj.GenerateResource.Cache
+E:\Cursos 🔨\Backups Projects\Modern_Menu\Modern_Menu\bin\Debug\Modern_Menu.exe
+E:\Cursos 🔨\Backups Projects\Modern_Menu\Modern_Menu\bin\Debug\Modern_Menu.pdb
+E:\Cursos 🔨\Backups Projects\Modern_Menu\Modern_Menu\bin\Debug\Guna.UI.dll
+E:\Cursos 🔨\Backups Projects\Modern_Menu\Modern_Menu\obj\Debug\Modern_Menu.uc_settings.resources
+E:\Cursos 🔨\Backups Projects\Modern_Menu\Modern_Menu\obj\Debug\Modern_Menu.uc_SubMenu01.resources
+E:\Cursos 🔨\Backups Projects\Modern_Menu\Modern_Menu\obj\Debug\Modern_Menu.uc_SubMenu02.resources
+E:\Cursos 🔨\Backups Projects\Modern_Menu\Modern_Menu\obj\Debug\Modern_Menu.uc_About.resources
+C:\Users\Windows.lite\Documents\Projectos\Backups Projects\Modern_Menu\Modern_Menu\bin\Debug\Modern_Menu.exe.config
+C:\Users\Windows.lite\Documents\Projectos\Backups Projects\Modern_Menu\Modern_Menu\obj\Debug\Modern_Menu.exe
+C:\Users\Windows.lite\Documents\Projectos\Backups Projects\Modern_Menu\Modern_Menu\obj\Debug\Modern_Menu.pdb
